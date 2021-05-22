@@ -1,7 +1,7 @@
 # Terraform-Azure-Topo-HubSpoke
 Topologia usada neste exemplo. 
 
-[Topologia]([./images/azure_hub-spoke-Page-1.jp](https://github.com/pmmenezes/Terraform-Azure-Topo-HubeSpoke/blob/main/images/azure_hub-spoke-Page-1.jpg?raw=true)g)
+[Topologia](https://github.com/pmmenezes/Terraform-Azure-Topo-HubeSpoke/blob/main/images/azure_hub-spoke-Page-1.jpg)
 
 
 
